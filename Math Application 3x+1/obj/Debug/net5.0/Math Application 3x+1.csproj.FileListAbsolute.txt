@@ -1,0 +1,16 @@
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\bin\Debug\net5.0\Math Application 3x+1.exe
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\bin\Debug\net5.0\Math Application 3x+1.deps.json
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\bin\Debug\net5.0\Math Application 3x+1.runtimeconfig.json
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\bin\Debug\net5.0\Math Application 3x+1.runtimeconfig.dev.json
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\bin\Debug\net5.0\Math Application 3x+1.dll
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\bin\Debug\net5.0\ref\Math Application 3x+1.dll
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\bin\Debug\net5.0\Math Application 3x+1.pdb
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\obj\Debug\net5.0\Math Application 3x+1.csproj.AssemblyReference.cache
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\obj\Debug\net5.0\Math Application 3x+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\obj\Debug\net5.0\Math Application 3x+1.AssemblyInfoInputs.cache
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\obj\Debug\net5.0\Math Application 3x+1.AssemblyInfo.cs
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\obj\Debug\net5.0\Math Application 3x+1.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\obj\Debug\net5.0\Math Application 3x+1.dll
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\obj\Debug\net5.0\ref\Math Application 3x+1.dll
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\obj\Debug\net5.0\Math Application 3x+1.pdb
+C:\Users\Rachel\Desktop\Math-Application-3x-1-master\Math-Application-3x-1-master\Math Application 3x+1\obj\Debug\net5.0\Math Application 3x+1.genruntimeconfig.cache

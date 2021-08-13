@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Math Application 3x+1/1.0.0": {
+        "runtime": {
+          "Math Application 3x+1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Math Application 3x+1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
